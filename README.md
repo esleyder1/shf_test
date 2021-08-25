@@ -3,13 +3,6 @@ Citix App
 
 Práctica para la empresa SHF
 
-## GitHub
-
-    Repositorio del proyecto
-
-    > git clone https://github.com/sanity-io/example-frontend-vue-js.git
-
-
 ### Instalar dependencias
 ```
 npm install
@@ -33,7 +26,7 @@ password: citix
 
 ## Importante
 ```
-Debe tener un correo electrónico de google para que las imagenes del api carguen en la vista /home.
+Debe tener un correo electrónico de google abierto para que las imagenes del api carguen en la vista /home.
 ```
 
 Propietario: Esleyder Ordoñez
