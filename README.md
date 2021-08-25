@@ -1,19 +1,39 @@
-# app3
+Citix App
+=== 
 
-## Project setup
+Práctica para la empresa SHF
+
+## GitHub
+
+    Repositorio del proyecto
+
+    > git clone https://github.com/sanity-io/example-frontend-vue-js.git
+
+
+### Instalar dependencias
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Correr el servidor
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compilar
 ```
 npm run build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Datos para iniciar sesión
+```
+email: esleyder@citix.com
+password: citix
+```
+
+## Importante
+```
+Debe tener un correo electrónico de google para que las imagenes del api carguen en la vista /home.
+```
+
+Propietario: Esleyder Ordoñez
